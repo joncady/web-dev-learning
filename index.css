@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+}
+
+div h2 {
+    color: red;
+    font-size: 2vw;
+}
+
+/*
+id 
+*/
+#first {
+    font-size: 60px;  
+}
+
+/*
+. = class
+*/
+.pic {
+    border-radius: 8px;
+}
+
